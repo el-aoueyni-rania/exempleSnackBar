@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exempleSnackBar</string>
+    <string name="snackbar">This is a SnackBar message</string>
+
+</resources>
